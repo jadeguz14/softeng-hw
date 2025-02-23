@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|e:\\desktop_dp65uud_backup\\egyetem\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi1-2024-jadeguz14\\feladat2\\shapes\\shapeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|solutionrelative:shapes\\shapeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|e:\\desktop_dp65uud_backup\\egyetem\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi1-2024-jadeguz14\\feladat2\\shapes\\textarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|solutionrelative:shapes\\textarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|e:\\desktop_dp65uud_backup\\egyetem\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi1-2024-jadeguz14\\feladat2\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|e:\\desktop_dp65uud_backup\\egyetem\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi1-2024-jadeguz14\\feladat2\\shapes\\baseshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|solutionrelative:shapes\\baseshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|e:\\desktop_dp65uud_backup\\egyetem\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi1-2024-jadeguz14\\feladat2\\shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|solutionrelative:shapes\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|e:\\desktop_dp65uud_backup\\egyetem\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi1-2024-jadeguz14\\feladat2\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|e:\\desktop_dp65uud_backup\\egyetem\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi1-2024-jadeguz14\\feladat2\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEF567BD-CC52-4563-B43E-B2CB05BF7E6F}|Shapes\\Shapes.csproj|solutionrelative:shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShapeInventory.cs",
+              "DocumentMoniker": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\ShapeInventory.cs",
+              "RelativeDocumentMoniker": "Shapes\\ShapeInventory.cs",
+              "ToolTip": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\ShapeInventory.cs",
+              "RelativeToolTip": "Shapes\\ShapeInventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:52:09.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\IShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\IShape.cs",
+              "ToolTip": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\IShape.cs",
+              "RelativeToolTip": "Shapes\\IShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:45:23.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextArea.cs",
+              "DocumentMoniker": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\TextArea.cs",
+              "RelativeDocumentMoniker": "Shapes\\TextArea.cs",
+              "ToolTip": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\TextArea.cs",
+              "RelativeToolTip": "Shapes\\TextArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:34:20.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:28:23.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Square.cs",
+              "DocumentMoniker": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Shapes\\Square.cs",
+              "ToolTip": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\Square.cs",
+              "RelativeToolTip": "Shapes\\Square.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:16:07.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseShape.cs",
+              "DocumentMoniker": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\BaseShape.cs",
+              "RelativeDocumentMoniker": "Shapes\\BaseShape.cs",
+              "ToolTip": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\BaseShape.cs",
+              "RelativeToolTip": "Shapes\\BaseShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:03:28.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "E:\\DESKTOP_DP65UUD_BACKUP\\Egyetem\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi1-2024-jadeguz14\\Feladat2\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:33:05.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

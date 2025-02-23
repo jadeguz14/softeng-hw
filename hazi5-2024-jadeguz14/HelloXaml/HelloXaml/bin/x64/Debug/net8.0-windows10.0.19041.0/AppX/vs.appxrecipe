@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-GAC44BA</Machine>
+    <WindowsUser>Jadeguz</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>f3cf504f-a71a-4808-8312-9a3496dc3e5a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=toth.tibor</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\AppX</LayoutDir>
+    <RegisteredManifestChecksum>5147FB46D0642805378568AABF60DE79FDE05F21BD4C45CEECA23D565D1466E4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f3cf504f-a71a-4808-8312-9a3496dc3e5a_1.0.0.0_x64__e0v6y71wkt2nc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f3cf504f-a71a-4808-8312-9a3496dc3e5a_e0v6y71wkt2nc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f3cf504f-a71a-4808-8312-9a3496dc3e5a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=toth.tibor</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2024-05-14T17:23:21.099</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2024-05-14T16:37:15.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\HelloXaml.runtimeconfig.json">
+      <PackagePath>HelloXaml.runtimeconfig.json</PackagePath>
+      <Modified>2024-05-13T17:04:17.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\HelloXaml.dll">
+      <PackagePath>HelloXaml.dll</PackagePath>
+      <Modified>2024-05-14T17:23:21.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\obj\x64\Debug\net8.0-windows10.0.19041.0\apphost.exe">
+      <PackagePath>HelloXaml.exe</PackagePath>
+      <Modified>2024-05-14T17:23:21.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\bin\x64\Debug\net8.0-windows10.0.19041.0\HelloXaml.deps.json">
+      <PackagePath>HelloXaml.deps.json</PackagePath>
+      <Modified>2024-05-13T18:56:37.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
+      <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
+      <Modified>2023-10-16T19:41:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
+      <PackagePath>WinRT.Runtime.dll</PackagePath>
+      <Modified>2023-10-16T19:41:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\communitytoolkit.mvvm\8.2.2\lib\net6.0\CommunityToolkit.Mvvm.dll">
+      <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
+      <Modified>2023-10-24T20:16:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
+      <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
+      <Modified>2023-12-14T23:18:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.WinUI.dll">
+      <PackagePath>Microsoft.WinUI.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppLifecycle.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Builder.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.AppNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.AppNotifications.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.Resources.Projection.dll</PackagePath>
+      <Modified>2023-12-16T13:38:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll">
+      <PackagePath>Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.PushNotifications.Projection.dll">
+      <PackagePath>Microsoft.Windows.PushNotifications.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Security.AccessControl.Projection.dll">
+      <PackagePath>Microsoft.Windows.Security.AccessControl.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Power.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.System.Projection.dll">
+      <PackagePath>Microsoft.Windows.System.Projection.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.Windows.Widgets.Providers.Projection.dll">
+      <PackagePath>Microsoft.Windows.Widgets.Providers.Projection.dll</PackagePath>
+      <Modified>2023-07-24T22:17:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
+      <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+      <Modified>2023-12-18T22:37:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2023-12-16T13:37:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2023-12-16T13:37:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2023-12-16T13:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2023-12-16T13:37:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2023-12-16T13:37:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
+      <PackagePath>runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+      <Modified>2023-12-16T13:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2024-05-13T16:45:29.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2024-05-13T16:45:29.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2024-05-13T16:45:29.404</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2024-05-13T16:45:29.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2024-05-13T16:45:29.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2024-05-13T16:45:29.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi5-2024-jadeguz14\HelloXaml\HelloXaml\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2024-05-13T16:45:29.406</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.4.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.4</Name>
+      <Version>4000.1082.2259.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.4, MinVersion = 4000.1082.2259.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.4.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.4.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.4</Name>
+      <Version>4000.1082.2259.0</Version>
+      <Architecture>win32</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.4, MinVersion = 4000.1082.2259.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-x86\Microsoft.WindowsAppRuntime.1.4.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.4.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.4</Name>
+      <Version>4000.1082.2259.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.4, MinVersion = 4000.1082.2259.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-x64\Microsoft.WindowsAppRuntime.1.4.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.4.msix">
+      <Name>Microsoft.WindowsAppRuntime.1.4</Name>
+      <Version>4000.1082.2259.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.WindowsAppRuntime.1.4, MinVersion = 4000.1082.2259.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Jadeguz\.nuget\packages\microsoft.windowsappsdk\1.4.231219000\buildTransitive\..\tools\MSIX\win10-arm64\Microsoft.WindowsAppRuntime.1.4.msix</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

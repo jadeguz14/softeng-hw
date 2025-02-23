@@ -1,0 +1,1 @@
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi4-2024-jadeguz14\Feladatok\MultiThreadedApp.csproj;x64

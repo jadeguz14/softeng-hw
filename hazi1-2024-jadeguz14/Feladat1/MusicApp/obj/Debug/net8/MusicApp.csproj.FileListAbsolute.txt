@@ -1,0 +1,15 @@
+D:\Workspace\repos\Feladat1\MusicApp\bin\Debug\net8\MusicApp.exe
+D:\Workspace\repos\Feladat1\MusicApp\bin\Debug\net8\MusicApp.deps.json
+D:\Workspace\repos\Feladat1\MusicApp\bin\Debug\net8\MusicApp.runtimeconfig.json
+D:\Workspace\repos\Feladat1\MusicApp\bin\Debug\net8\MusicApp.dll
+D:\Workspace\repos\Feladat1\MusicApp\bin\Debug\net8\MusicApp.pdb
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.AssemblyInfoInputs.cache
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.AssemblyInfo.cs
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.csproj.CoreCompileInputs.cache
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.sourcelink.json
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.dll
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\refint\MusicApp.dll
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.pdb
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\MusicApp.genruntimeconfig.cache
+D:\Workspace\repos\Feladat1\MusicApp\obj\Debug\net8\ref\MusicApp.dll

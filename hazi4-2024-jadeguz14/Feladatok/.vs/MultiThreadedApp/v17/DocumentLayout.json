@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|d:\\saj\u00E1t\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi4-2024-jadeguz14\\feladatok\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|d:\\saj\u00E1t\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi4-2024-jadeguz14\\feladatok\\applogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|solutionrelative:applogic\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|d:\\saj\u00E1t\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi4-2024-jadeguz14\\feladatok\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|d:\\saj\u00E1t\\bme_vik_2023_24_2\\szoftvertechnik\u00E1k\\h\u00E1zik\\hazi4-2024-jadeguz14\\feladatok\\applogic\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0966F65-FDB2-448D-9B9D-EF01647EF4B6}|MultiThreadedApp.csproj|solutionrelative:applogic\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\AppLogic\\Bike.cs",
+              "RelativeDocumentMoniker": "AppLogic\\Bike.cs",
+              "ToolTip": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\AppLogic\\Bike.cs",
+              "RelativeToolTip": "AppLogic\\Bike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T16:21:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAowKUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:30:13.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T18:30:11.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\AppLogic\\Game.cs",
+              "RelativeDocumentMoniker": "AppLogic\\Game.cs",
+              "ToolTip": "D:\\Saj\u00E1t\\BME_VIK_2023_24_2\\Szoftvertechnik\u00E1k\\H\u00E1zik\\hazi4-2024-jadeguz14\\Feladatok\\AppLogic\\Game.cs",
+              "RelativeToolTip": "AppLogic\\Game.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAHAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T19:39:40.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

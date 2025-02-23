@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "OecpfqDjQXjFB/nCSXayHqyH8z2lETYIMtciWg3G0t0+UpCqsXtTtWeT4wikuIDE7PUY+wNbH+8HNHpvBmum+g==",
+  "success": true,
+  "projectFilePath": "D:\\Saját\\BME_VIK_2023_24_2\\Szoftvertechnikák\\Házik\\hazi3-2024-jadeguz14\\TodoXaml\\TodoXaml\\TodoXaml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.2428\\microsoft.windows.sdk.buildtools.10.0.22621.2428.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.231219000\\microsoft.windowsappsdk.1.4.231219000.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.3\\microsoft.netcore.app.runtime.win-x86.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.3\\microsoft.aspnetcore.app.runtime.win-x86.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\8.0.3\\microsoft.netcore.app.runtime.win-arm64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.3\\microsoft.aspnetcore.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\8.0.3\\microsoft.windowsdesktop.app.runtime.win-arm64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\8.0.3\\microsoft.aspnetcore.app.runtime.win-arm64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.3\\microsoft.netcore.app.runtime.win-x64.8.0.3.nupkg.sha512",
+    "C:\\Users\\Jadeguz\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.3\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

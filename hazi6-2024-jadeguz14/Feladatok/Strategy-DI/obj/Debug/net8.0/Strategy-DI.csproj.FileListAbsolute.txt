@@ -1,0 +1,15 @@
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\bin\Debug\net8.0\Strategy-DI.exe
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\bin\Debug\net8.0\Strategy-DI.deps.json
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\bin\Debug\net8.0\Strategy-DI.runtimeconfig.json
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\bin\Debug\net8.0\Strategy-DI.dll
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\bin\Debug\net8.0\Strategy-DI.pdb
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.AssemblyInfoInputs.cache
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.AssemblyInfo.cs
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.csproj.CoreCompileInputs.cache
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.sourcelink.json
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.dll
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\refint\Strategy-DI.dll
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.pdb
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\Strategy-DI.genruntimeconfig.cache
+D:\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi6-2024-jadeguz14\Feladatok\Strategy-DI\obj\Debug\net8.0\ref\Strategy-DI.dll

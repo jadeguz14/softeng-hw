@@ -1,0 +1,15 @@
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\bin\Debug\net8.0\ModernLangToolsApp.exe
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\bin\Debug\net8.0\ModernLangToolsApp.deps.json
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\bin\Debug\net8.0\ModernLangToolsApp.runtimeconfig.json
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\bin\Debug\net8.0\ModernLangToolsApp.dll
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\bin\Debug\net8.0\ModernLangToolsApp.pdb
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.AssemblyInfoInputs.cache
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.AssemblyInfo.cs
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.csproj.CoreCompileInputs.cache
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.sourcelink.json
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.dll
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\refint\ModernLangToolsApp.dll
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.pdb
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ModernLangToolsApp.genruntimeconfig.cache
+C:\Users\Jadeguz\Documents\Saját\BME_VIK_2023_24_2\Szoftvertechnikák\Házik\hazi2-2024-jadeguz14\Feladatok\ModernLangToolsApp\obj\Debug\net8.0\ref\ModernLangToolsApp.dll

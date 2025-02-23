@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Workspace\\repos\\Feladat1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EED15720-CB9C-4109-9534-213478683A73}|MusicApp\\MusicApp.csproj|d:\\workspace\\repos\\feladat1\\musicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED15720-CB9C-4109-9534-213478683A73}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED15720-CB9C-4109-9534-213478683A73}|MusicApp\\MusicApp.csproj|d:\\workspace\\repos\\feladat1\\musicapp\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED15720-CB9C-4109-9534-213478683A73}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Workspace\\repos\\Feladat1\\MusicApp\\Program.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Program.cs",
+              "ToolTip": "D:\\Workspace\\repos\\Feladat1\\MusicApp\\Program.cs",
+              "RelativeToolTip": "MusicApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:48:50.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Song.cs",
+              "DocumentMoniker": "D:\\Workspace\\repos\\Feladat1\\MusicApp\\Song.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Song.cs",
+              "ToolTip": "D:\\Workspace\\repos\\Feladat1\\MusicApp\\Song.cs",
+              "RelativeToolTip": "MusicApp\\Song.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T18:49:17.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
